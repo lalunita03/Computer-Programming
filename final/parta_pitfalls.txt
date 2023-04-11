@@ -1,0 +1,57 @@
+CS 1 22fa Final Exam
+Part A: Pitfalls
+Student Name: Lea Grohmann
+
+Part A.1: Syntax Errors
+0. Line 1 has a syntax error for putting quotes around the second parameter
+   which is syntax for a string value, not a function argument. The valid
+   syntax required for the function header on Line 1 replaces 'lst' with lst.
+1. Line 13 is missing a colon at the end of the line. This is supposed to be
+   the condiitions for the while loop but the while loop won't work without
+   the colon. The valid syntax requires a colon at the end of the line.
+2. Line 17 has an indentation error. elif is indented too far. The valid
+   syntax requires elif to be the same indentation as the header of the if
+   statement, one tab in front of the elif should be removed and one tab in
+   Lines 18, 19, and 20 should be removed as well.
+3. Line 17 elif should be followed by a condition but it is not so there is an
+   error. The valid syntax reqires `elif` to be replaced by `else`
+4. Line 8 has an error because nothing should follow try. Also that's not how
+   try is used. The valid syntax requires `try` to be replaced by `if`. Since
+   that is what the user seems to be trying to do.
+5. Line 14 used a single equal sign inside the if statement header. Single equal
+   signs are used to assign variables not to check if two things are equal. The
+   valid syntax requires `=` to be replaced by `==`.
+
+Part A.2: Semantic Errors
+0. Line 25 has a semantic error due to adding an unspecified '.txt' suffix
+   when reading the file. While this is valid syntax, the function specifies
+   that the file is read as given, without adding suffixes.
+1. Line 31 split() doesn't actually modify the variable words itself. So words
+   would still be the same string and then the for loop in the next line would
+   just iterate over the characters in the string words which is not what we
+   expect it to do. To fix this we would need to create a new variable such as
+   this `words_list = words.split()` and then in Line 32 we would have to replaced
+   `words` by `words_list`.
+2. Line 34 instead of using += we need to use append becuase += adds every single
+   character of the word as a seperate element to the list rather than adding the
+   word itself as an element.
+3. Line 36 we are already looping through the lines of the file setting line equal
+   to file.readline() at the and of the for loop will result in us skipping every
+   other line which is not what we want. So we can just delete line 36.
+4. Line 9 we need the is_palindrome() function to return a boolean but the function
+   is just printing it. We need to replace `print(lst == lst.reverse())` by
+   `return lst == lst.reverse()`
+5. Line 1 the function should take an argument replace `is_palindrome() by
+   `is_palindrome(s)`. input() takes input from the terminal which is not what we
+   want so we can delete this line.
+
+Part A.3: Style (Design Flaw) Errors
+0. Both Lines 7 and 9 have style issues _specific to inline comment spacing_;
+   there should be a space before (if next to code) and after # for 
+   inline comments.
+1. Lines 3, 4 and 5 are missing a space before the equal sign
+2. Lines 3, 4 and 5 are missing a space after the equal sign
+3. Line 2 Docstrings should use triple quotes """running total of evens""" not single
+4. Line 8 there should be a space before anf after the `==`
+5. Line 11 and 12 this is unnessacary code since its not doing anything so we can
+   delete it.

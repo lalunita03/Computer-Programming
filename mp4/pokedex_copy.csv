@@ -1,0 +1,152 @@
+pid,name,description,stage,type,weakness,hp,move1,move2,move3,move4
+1,Bulbasaur,A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokemon.,1,Grass,Fire,200,Vine Whip,Growl,Amnesia,Magical Leaf
+2,Ivysaur,"When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",2,Grass,Fire,230,Razor Leaf,Magical Leaf,Venoshock,Growl
+3,Venusaur,The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.,3,Grass,Fire,160,Razor Leaf,,,
+4,Charmander,"Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",1,Fire,Water,188,Ember,Dragon Rage,Growl,Scratch
+5,Charmeleon,"When it swings its burning tail, it elevates the temperature to unbearably high levels.",2,Fire,Water,226,Dragon Rage,Flame Burst,Smokescreen,Slash
+6,Charizard,Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.,3,Fire,Water,266,Flare Blitz,Smokescreen,Slash,Air Slash
+7,Squirtle,"After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",1,Water,Grass,198,Bite,Water Gun,Tackle,Withdraw
+8,Wartortle,It cleverly controls its furry ears and tail to maintain its balance while swimming.,2,Water,Grass,160,Bite,Water Pulse,Iron Defense,Tackle
+9,Blastoise,The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.,3,Water,Grass,268,Bite,Hydro Pump,Withdraw,Flash Cannon
+10,Caterpie,Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.,1,Grass,Fire,200,Tackle,Bug Bite,,
+11,Metapod,A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.,2,Grass,Fire,160,Harden,Tackle,,
+12,Butterfree,"In battle, it flaps its wings at high speed to release highly toxic dust into the air.",3,Flying,Fire,230,Psybeam,Gust,Silver Wind,Double Team
+13,Weedle,Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.,1,Grass,Fire,160,Poison String,Bug Bite,,
+14,Kakuna,"While awaiting evolution, it hides from predators under leaves and in nooks of branches.",2,Grass,Fire,200,Harden,Tackle,,
+15,Beedrill,Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.,3,Flying,Fire,240,Twineedle,Pursuit,Venoshock,Swords Dance
+16,Pidgey,"It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",1,Flying,Electric,160,Peck,Quick Attack,Sand Attack,
+17,Pidgeotto,"It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",2,Flying,Electric,160,Wing Attack,Sand Attack,,
+18,Pidgeot,It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.,3,Flying,Electric,160,Quick Attack,Sand Attack,,
+19,Rattata,"Bites anything when it attacks. Small and very quick, it is a common sight in many places.",1,Normal,Fighting,160,Bite,Tackle,,
+20,Raticate,"Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.",2,Normal,Fighting,160,Quick Attack,Assurance,,
+21,Spearow,"Inept at flying high. However, it can fly around very fast to protect its territory.",1,Flying,Electric,160,Peck,Growl,Tackle,
+22,Fearow,"With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",2,Flying,Electric,240,Drill Peck,Drill Run,Leer,Assurance
+23,Ekans,"It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",1,Poison,Psychic,180,Acid,Mud Bomb,Bite,Leer
+24,Arbok,It is rumored that the ferocious warning markings on its belly differ from area to area.,2,Poison,Psychic,230,Bite,Screech,Acid,Thunder Fang
+25,Pikachu,"El's favorite Pokemon! When several Pikachu gather, their electricity could build and cause lightning storms.",1,Electric,Ground,160,Growl,Thunderbolt,Quick Attack,
+26,Raichu,Its long tail serves as a ground to protect itself from its own high voltage power.,2,Electric,Ground,160,Thunderbolt,Quick Attack,Tackle,Thunder
+27,Sandshrew,"Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",1,Ground,Water,160,Swift,Scratch,Dig,Sand Attack
+28,Sandslash,Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.,2,Ground,Water,160,Earthquake,Swords Dance,Slash,
+29,Nidoran(F),"Although small, its venomous barbs render this Pokemon dangerous. The female has smaller horns.",1,Poison,Psychic,160,Bite,Double Kick,Growl,Peck
+30,Nidorina,"When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.",2,Poison,Psychic,160,Bite,Cut,Double Kick,Leer
+31,Nidoqueen,Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.,3,Poison,Psychic,160,Venoshock,Superpower,Earth Power,Charm
+32,Nidoran(M),"It stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",1,Poison,Psychic,160,Bite,Double Kick,Growl,Peck
+33,Nidorino,"It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",2,Poison,Psychic,160,Bite,Horn Attack,Double Kick,Leer
+34,Nidoking,One swing of its mighty tail can snap a telephone pole as if it were a matchstick.,3,Poison,Psychic,160,Venoshock,Mega Horn,Earth Power,Amnesia
+35,Clefairy,The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.,1,Fairy,Poison,250,Growl,Pound,Wakeup Slap,Disarming Voice
+36,Clefable,"With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",2,Fairy,Poison,300,Minimize,Pound,Disarming Voice,Covet
+37,Vulpix,"At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",1,Fire,Water,160,Ember,Quick Attack,Feint Attack,Double Team
+38,Ninetales,Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.,2,Fire,Water,160,Flamethrower,Quick Attack,,
+39,Jigglypuff,"When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",1,Fairy,Poison,340,Pound,Defense Curl,Rollout,Wakeup Slap
+40,Wigglytuff,"Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.",2,Fairy,Poison,160,Defense Curl,Covet,Feint Attack,Brick Break
+41,Zubat,Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.,1,Poison,Psychic,160,Bite,Wing Attack,Poison Fang,Double Team
+42,Golbat,"It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.",2,Poison,Psychic,260,Bite,Wing Attack,Swift,Screech
+43,Oddish,"It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",1,Grass,Fire,160,Acid,,,
+44,Gloom,"Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose-bending stink.",2,Grass,Fire,230,Acid,Razor Leaf,Hidden Power,Growth
+45,Vileplume,"It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",3,Grass,Fire,160,Petal Blizzard,Venoshock,Swords Dance,Hidden Power
+46,Paras,Mushrooms named tochukaso grow on its back. They grow along with the host Paras.,1,Bug,Fire,160,Scratch,Peck,,
+47,Parasect,A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.,2,Bug,Fire,160,Slash,,,
+48,Venonat,Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.,1,Bug,Fire,160,Psybeam,,,
+49,Venomoth,The dust-like scales covering its wings are color-coded to indicate the kinds of poison it has.,2,Bug,Fire,160,Psychic,,,
+50,Diglett,"It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",1,Ground,Water,130,Growl,Scratch,Mud Bomb,Astonish
+51,Dugtrio,"A team of triplets that can burrow over 60 MPH. Due to this, some people think it's an earthquake.",2,Ground,Water,180,Earthquake,Night Slash,Growl,Tri Attack
+52,Meowth,Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.,1,Normal,Fighting,160,Bite,Growl,Scratch,
+53,Persian,"Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",2,Normal,Fighting,160,Bite,Swift,Screech,
+54,Psyduck,"Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.",1,Water,Electric,210,Amnesia,Scratch,Water Gun,Zen Headbutt
+55,Golduck,"Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",2,Water,Electric,270,Amnesia,Zen Headbutt,Scratch,Water Pulse
+56,Mankey,Extremely quick to anger. It could be docile one moment then thrashing away the next instant.,1,Fighting,Flying,160,Karate chop,Leer,Scratch,
+57,Primeape,Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.,2,Fighting,Flying,240,Karate chop,Leer,Assurance,Scratch
+58,Growlithe,It has a brave and trustworthy nature and fearlessly stands up to bigger and stronger foes.,1,Fire,Water,220,Bite,Fire Fang,Iron Tail,Leer
+59,Arcanine,This legendary Chinese Pokemon is considered magnificent. Many people are enchanted by its grand mane.,2,Fire,Water,290,Bite,Fire Fang,Extreme Speed,Double Team
+60,Poliwag,Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.,1,Water,Electric,160,Water Gun,,,
+61,Poliwhirl,"Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",2,Water,Electric,160,Bubble Beam,Mud Bomb,Tackle,
+62,Poliwrath,"Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",3,Water,Electric,160,Bubble Beam,,,
+63,Abra,"Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",1,Psychic,Dark,160,Energy Ball,Thief,Psychic,Double Team
+64,Kadabra,It emits special alpha waves from its body that induce headaches just by being close by.,2,Psychic,Dark,190,Kinesis,Fire Punch,Ice Punch,Psychic
+65,Alakazam,"Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",3,Psychic,Dark,220,Psychic,Shadow Ball,Kinesis,Focus Blast
+66,Machop,"Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",1,Fighting,Flying,160,Karate chop,Leer,,
+67,Machoke,"Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",2,Fighting,Flying,160,Karate chop,Leer,,
+68,Machamp,"Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",3,Fighting,Flying,160,Leer,Low Sweep,Strength,Ice Punch
+69,Bellsprout,A carnivorous Pokemon that traps and eats bugs. It uses its root feet to soak up needed moisture.,1,Grass,Fire,210,Vine Whip,Acid,Growth,Wrap
+70,Weepinbell,"When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.",2,Grass,Fire,160,Vine Whip,Acid,Slam,Growth
+71,Victreebel,"Said to live in huge colonies deep in jungles, although no one has ever returned from there.",3,Grass,Fire,80,Razor Leaf,Leaf Tornado,Acid Spray,Tickle
+72,Tentacool,Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.,1,Water,Electric,160,Acid,Barrier,Water Gun,
+73,Tentacruel,"The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",2,Water,Electric,270,Barrier,Hydro Pump,Screech,Acid Spray
+74,Geodude,"Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",1,Rock,Water,190,Rock Throw,Tackle,Bulldoze,Defense Curl
+75,Graveler,Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.,2,Rock,Water,220,Smack Down,Bulldoze,Hidden Power,Defense Curl
+76,Golem,It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger.,3,Rock,Water,270,Earthquake,Rock Throw,Steamroller,Defense Curl
+77,Ponyta,It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes. Not to be confused with the 20% cooler PonyTA.,1,Fire,Water,160,Ember,Growl,Stomp,
+78,Rapidash,"Very competitive, this Pokemon will chase anything that moves fast in the hopes of racing it.",2,Fire,Water,160,Fire Blast,Stomp,Tackle,
+79,Slowpoke,Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.,1,Psychic,Dark,160,Amnesia,Headbutt,,
+80,Slowbro,An attached Shellder won't let go because of the tasty flavor that oozes out of its tail.,2,Psychic,Dark,160,Amnesia,Headbutt,Psychic,
+81,Magnemite,The electricity emitted by the units on each side of its body cause it to become a strong magnet.,1,Steel,Fire,160,Thunder Shock,Screech,,
+82,Magneton,"Generates strange radio signals. It raises the temperature by 3.6F degrees within 3,300 feet.",2,Steel,Fire,160,Tri Attack,Screech,,
+83,Farfetch'd,The sprig of green onions it holds is its weapon. It is used much like a metal sword.,1,Flying,Electric,214,Swords Dance,Slash,Air Cutter,Fury Cutter
+84,Doduo,"It races through grassy plains with powerful strides, leaving footprints up to four inches deep.",1,Flying,Electric,180,Growl,Quick Attack,Peck,Pursuit
+85,Dodrio,"Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",2,Flying,Electric,230,Swords Dance,Drill Peck,Tri Attack,Pursuit
+86,Seel,The light blue fur that covers it keeps it protected against the cold. It loves iceberg-filled oceans.,1,Water,Electric,160,Growl,Headbutt,,
+87,Dewgong,"Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters.",2,Water,Electric,290,Growl,Headbutt,Aqua Tail,Ice Beam
+88,Grimer,Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.,1,Poison,Psychic,270,Harden,Sludge,Pound,Mud Bomb
+89,Muk,"As it moves, a very strong poison leaks from it, making the ground there barren for three years.",2,Poison,Psychic,160,Harden,Sludge,Mud Bomb,
+90,Shellder,It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.,1,Water,Electric,160,Leer,Water Gun,,
+91,Cloyster,Even a missile can't break the spikes it uses to stab opponents. They're even harder than its shell.,2,Water,Electric,210,Hydro Pump,Aurora Beam,Withdraw,Poison Jab
+92,Gastly,"With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",1,Ghost,Dark,170,Payback,Lick,Thief,Double Team
+93,Haunter,"It hides in the dark, planning to take the life of the next living thing that wanders close by.",2,Ghost,Dark,200,Double Team,Shadow Punch,Thief,Venoshock
+94,Gengar,It is said to emerge from darkness to steal the lives of those who become lost in mountains.,3,Ghost,Dark,230,Dark Pulse,Shadow Ball,Venoshock,Double Team
+95,Onix,"It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",1,Rock,Water,160,Harden,Slam,Rock Slide,Dig
+96,Drowzee,Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.,1,Psychic,Dark,230,Headbutt,Meditate,Ice Punch,Psybeam
+97,Hypno,It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.,2,Psychic,Dark,280,Headbutt,Meditate,Fire Punch,Psychic
+98,Krabby,"Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",1,Water,Electric,170,Bubble,Harden,Vice Grip,Metal Claw
+99,Kingler,"It can hardly lift its massive, overgrown pincer. The pincer's size makes it difficult to aim properly.",2,Water,Electric,220,Crabhammer,Harden,Vice Grip,Mud Shot
+100,Voltorb,It was discovered when Poke balls were introduced. It is said that there is some connection.,1,Electric,Ground,160,Tackle,Screech,Charge Beam,Rollout
+101,Electrode,"It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",2,Electric,Ground,230,Screech,Tackle,Thunder,Thief
+102,Exeggcute,"Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",1,Grass,Fire,230,Uproar,Bullet Seed,Hidden Power,Double Team
+103,Exeggutor,Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes.,2,Grass,Fire,300,Barrage,Stomp,Seed Bomb,Confide
+104,Cubone,Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.,1,Ground,Water,210,Bone Club,Growl,Headbutt,Stomping Tantrum
+105,Marowak,The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.,2,Ground,Water,160,Bone Club,Growl,Headbutt,
+106,Hitmonlee,"If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",1,Fighting,Flying,210,Double Kick,Blaze Kick,Meditate,Mega Kick
+107,Hitmonchan,"Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",1,Fighting,Flying,210,Fire Punch,Mach Punch,Ice Punch,Work Up
+108,Lickitung,Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.,1,Normal,Fighting,160,Stomp,Slam,,
+109,Koffing,"If one gets close enough to it when it expels poisonous gas, the gas swirling inside it can be seen.",1,Poison,Psychic,190,Tackle,Sludge,Smokescreen,Assurance
+110,Weezing,"Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",2,Poison,Psychic,160,Sludge,Smokescreen,Assurance,Tackle
+111,Rhyhorn,It doesn't care if there is anything in its way. It just charges and destroys all obstacles.,1,Rock,Water,160,Horn Attack,Peck,,
+112,Rhydon,"Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",2,Rock,Water,160,Earthquake,Horn Attack,,
+113,Chansey,"Being few in number and difficult to capture, it is said to bring happiness to the Trainer who catches it.",1,Normal,Fighting,610,Growl,Defense Curl,Pound,Egg Bomb
+114,Tangela,The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.,1,Grass,Fire,160,Vine Whip,Slam,,
+115,Kangaskhan,"To protect its young, it will never give up during battle, no matter how badly wounded it is.",1,Normal,Fighting,320,Bite,Dizzy Punch,Leer,Mega Punch
+116,Horsea,"It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.",1,Water,Electric,170,Bubble,Twister,Aurora Beam,Smokescreen
+117,Seadra,Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.,2,Water,Electric,160,Bubble Beam,Smokescreen,,
+118,Goldeen,"A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots.",1,Water,Electric,200,Peck,Horn Attack,Water Pulse,Double Team
+119,Seaking,The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest.,2,Water,Electric,160,Horn Attack,Waterfall,,
+120,Staryu,An enigmatic Pokemon that can effortlessly regenerate any appendage it loses in battle.,1,Water,Electric,160,Water Gun,Harden,,
+121,Starmie,The center section is named the core. People think it is communicating when it glows in 7 colors.,2,Water,Electric,160,Bubble Beam,Harden,Swift,
+122,Mr. Mime,Always practices its pantomime act. It makes enemies believe something exists that really doesn't.,1,Psychic,Ghost,160,Barrier,Psybeam,,
+123,Scyther,Its blindingly fast speed adds to the sharpness of its twin forearm scythes which can slice through thick logs in one wicked stroke.,1,Bug,Fire,160,Swords Dance,Wing Attack,Slash,
+124,Jynx,"It has several different cry patterns, each of which seems to have its own meaning.",1,Psychic,Dark,240,Blizzard,Powder Snow,Pound,Fake Tears
+125,Electabuzz,"Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",1,Electric,Ground,240,Leer,Thunder Punch,Swift,Karate Chop
+126,Magmar,"The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun.",1,Fire,Water,160,Fire Punch,Ember,Leer,
+127,Pinsir,"When the temperature drops at night, it sleeps on treetops or among roots where it is well hidden.",1,Bug,Fire,160,Harden,Vice Grip,,
+128,Tauros,They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.,1,Normal,Fighting,160,Horn Attack,,,
+129,Magikarp,A pathetic excuse for a Pokemon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.,1,Water,Electric,80,Splash,,,
+130,Gyarados,"It appears whenever there is world conflict, burning down any place it travels through.",2,Water,Electric,300,Crunch,Hydro Pump,Dragon Tail,Dragon Dance
+131,Lapras,Its high intelligence enables it to understand human speech. It likes to ferry people on its back.,1,Water,Electric,370,Growl,Hydro Pump,Thunder,Ice Beam
+132,Ditto,"It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",1,Normal,Fighting,206,Transform,,,
+133,Eevee,"Due to its unstable genetic makeup, this special Pokemon conceals many different possible evolutions.",1,Normal,Fighting,220,Growl,Swift,Bite,Shadow Ball
+134,Vaporeon,"As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",3,Water,Grass,370,Hydro Pump,Quick Attack,Sand Attack,Ice Beam
+135,Jolteon,It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.,2,Electric,Ground,240,Double Kick,Thunder Shock,Quick Attack,Sand Attack
+136,Flareon,"It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",2,Fire,Water,240,Bite,Ember,Quick Attack,Sand Attack
+137,Porygon,A manmade Pokemon that came about as a result of research. It is programmed with only basic motions.,1,Normal,Fighting,160,Tri Attack,Sharpen,Psybeam,
+138,Omanyte,"Revived from an ancient fossil, this Pokemon uses air stored in its shell to sink and rise in water.",1,Water,Electric,160,Bite,Leer,,
+139,Omastar,"Apparently, it cracked Shellder's shell with its sharp fangs and sucked out the insides.",2,Water,Electric,160,Bite,Hydro Pump,,
+140,Kabuto,It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.,1,Rock,Grass,170,Harden,Scratch,Mud Shot,Aqua Jet
+141,Kabutops,Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.,2,Rock,Grass,230,Harden,Night Slash,Ancient Power,Slash
+142,Aerodactyl,This vicious Pokemon is said to have flown in ancient skies while shrieking high-pitched cries.,1,Flying,Water,270,Bite,Ice Fang,Wing Attack,Double Team
+143,Snorlax,"Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",1,Normal,Fighting,160,Amnesia,Hidden Power,,
+144,Articuno,A legendary bird Pokemon that is said to appear to doomed people who are lost in icy mountains.,1,Ice,Rock,290,Ancient Power,Ice Beam,Hurricane,Double Team
+145,Zapdos,A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.,1,Electric,Rock,160,Drill Peck,Thunder,Charge,Ancient Power
+146,Moltres,This legendary Pokemon scatters embers with every flap of its wings. It is a thrilling sight to behold.,1,Fire,Rock,160,Flamethrower,Sky Attack,,
+147,Dratini,Long considered a mythical Pokemon until recently when a small colony was found living underwater.,1,Dragon,Fairy,192,Water Gun,Dragon Dance,Dragon Rage,Slam
+148,Dragonair,"They say that if it emits an aura from its whole body, the weather will begin to change instantly.",2,Dragon,Fairy,232,Dragon Rage,Dragon Dance,Slam,Aqua Tail
+149,Dragonite,It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.,3,Dragon,Fairy,292,Dragon Dance,Thunder Punch,Outrage,Hurricane
+150,Mewtwo,It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.,1,Psychic,Dark,160,Amnesia,Swift,Psychic,
+151,Mew,Its DNA is said to contain the genetic codes of all Pokemon.,1,Psychic,Dark,160,Amnesia,Psychic,,
