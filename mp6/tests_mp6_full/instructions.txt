@@ -1,0 +1,27 @@
+Version 11/17: Added an additional test_isolated_mp6_ab.py
+to help students test functions/methods in isolated before testing
+Part D (create_SC, create_BCC, create_FCC) and import/export functionality
+in Part C.
+
+To run these tests, make sure your mp6 has the following structure:
+
+mp6/
+  atom.py
+  lattice.py
+  lattice_client.py
+  test_lattice.py
+  test_isolated_mp6_ab.py
+  student_files/
+  test_files/
+    aluminum_fcc_out.xyz
+    iron_bcc_out.xyz
+    plonium_sc_out.xyz
+
+With your terminal located at /path/to/mp6/ (e.g. typing ls will display the py files above)
+run:
+
+pytest test_isolated_mp6_ab.py
+pytest test_lattice.py
+
+This will test your programs and generate 3 output files in student_files for you,
+and compare them with our provided out files.
