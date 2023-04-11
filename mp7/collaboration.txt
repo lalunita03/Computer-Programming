@@ -1,0 +1,29 @@
+CS 1 Assignment Collaboration Component (Required)
+Name: <your name>, <your email>
+Partner: <partner's name>, partner's email>
+Collaborated on: <assignment parts collaborated>
+Estimated time collaborating: <rough estimate in hours>
+
+--------------------------------------------------------------------------------
+Collaboration (at least 3 sentences answering some or all of the following):
+--------------------------------------------------------------------------------
+What did collaboration look like between you and your partner in MP7 Parts B/C?
+How long did you spend on the resubmission independently vs. with your partner?
+Did you collaborate via Zoom? In-person?
+- Note that it is expected you spend between 1-2 hours on the assignment
+  peer-programming, either in-person or via Discord/Zoom.
+Did you walk through each of each other's code (this is ok, as long as you aren't 
+copy/pasting each other's code)? 
+What questions did you ask your partner? How did they answer? (recommended to
+provide a bulleted-list here, especially for your own takeaways/common bugs)
+Did you use any visual/pseudocode strategies (white board, paper, tablet, etc.)?
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Reflection (at least 3 sentences):
+--------------------------------------------------------------------------------
+How was your overall experience working with your partner?
+From your perspective, was the workload distribution fair?
+Did you learn anything new (debugging strategies, MP 7 material, etc.)
+Would you recommend collaboration in this way in MP 7 for future offerings of 
+CS 1?
